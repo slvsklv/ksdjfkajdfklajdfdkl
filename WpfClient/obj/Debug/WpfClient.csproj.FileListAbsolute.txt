@@ -1,0 +1,51 @@
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfClient\bin\Debug\WpfClient.exe.config
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfClient\bin\Debug\WpfClient.exe
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfClient\bin\Debug\WpfClient.pdb
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfClient\bin\Debug\ChatLibrary.dll
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfClient\bin\Debug\ChatLibrary.pdb
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfClient\obj\Debug\ClientForm.g.cs
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfClient\obj\Debug\LoginForm.g.cs
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfClient\obj\Debug\App.g.cs
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfClient\obj\Debug\WpfClient_MarkupCompile.cache
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfClient\obj\Debug\WpfClient_MarkupCompile.lref
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfClient\obj\Debug\ClientForm.baml
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfClient\obj\Debug\LoginForm.baml
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfClient\obj\Debug\WpfClient.g.resources
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfClient\obj\Debug\WpfClient.Properties.Resources.resources
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfClient\obj\Debug\WpfClient.csproj.GenerateResource.cache
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfClient\obj\Debug\WpfClient.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfClient\obj\Debug\WpfClient.csproj.CopyComplete
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfClient\obj\Debug\WpfClient.exe
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfClient\obj\Debug\WpfClient.pdb
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfClient\bin\Debug\MaterialDesignColors.dll
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfClient\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfClient\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfClient\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfClient\obj\Debug\WpfClient.csprojAssemblyReference.cache
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfClient\obj\Debug\App.baml
+C:\Users\klika\OneDrive\Рабочий стол\TCPMessanger\WpfClient\bin\Debug\WpfClient.exe.config
+C:\Users\klika\OneDrive\Рабочий стол\TCPMessanger\WpfClient\bin\Debug\WpfClient.exe
+C:\Users\klika\OneDrive\Рабочий стол\TCPMessanger\WpfClient\bin\Debug\WpfClient.pdb
+C:\Users\klika\OneDrive\Рабочий стол\TCPMessanger\WpfClient\bin\Debug\ChatLibrary.dll
+C:\Users\klika\OneDrive\Рабочий стол\TCPMessanger\WpfClient\bin\Debug\MaterialDesignColors.dll
+C:\Users\klika\OneDrive\Рабочий стол\TCPMessanger\WpfClient\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\klika\OneDrive\Рабочий стол\TCPMessanger\WpfClient\bin\Debug\ChatLibrary.pdb
+C:\Users\klika\OneDrive\Рабочий стол\TCPMessanger\WpfClient\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\klika\OneDrive\Рабочий стол\TCPMessanger\WpfClient\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\klika\OneDrive\Рабочий стол\TCPMessanger\WpfClient\obj\Debug\WpfClient.csproj.AssemblyReference.cache
+C:\Users\klika\OneDrive\Рабочий стол\TCPMessanger\WpfClient\obj\Debug\WpfClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\klika\OneDrive\Рабочий стол\TCPMessanger\WpfClient\obj\Debug\ClientForm.g.cs
+C:\Users\klika\OneDrive\Рабочий стол\TCPMessanger\WpfClient\obj\Debug\LoginForm.g.cs
+C:\Users\klika\OneDrive\Рабочий стол\TCPMessanger\WpfClient\obj\Debug\App.g.cs
+C:\Users\klika\OneDrive\Рабочий стол\TCPMessanger\WpfClient\obj\Debug\WpfClient_MarkupCompile.cache
+C:\Users\klika\OneDrive\Рабочий стол\TCPMessanger\WpfClient\obj\Debug\WpfClient_MarkupCompile.lref
+C:\Users\klika\OneDrive\Рабочий стол\TCPMessanger\WpfClient\obj\Debug\App.baml
+C:\Users\klika\OneDrive\Рабочий стол\TCPMessanger\WpfClient\obj\Debug\ClientForm.baml
+C:\Users\klika\OneDrive\Рабочий стол\TCPMessanger\WpfClient\obj\Debug\LoginForm.baml
+C:\Users\klika\OneDrive\Рабочий стол\TCPMessanger\WpfClient\obj\Debug\WpfClient.g.resources
+C:\Users\klika\OneDrive\Рабочий стол\TCPMessanger\WpfClient\obj\Debug\WpfClient.Properties.Resources.resources
+C:\Users\klika\OneDrive\Рабочий стол\TCPMessanger\WpfClient\obj\Debug\WpfClient.csproj.GenerateResource.cache
+C:\Users\klika\OneDrive\Рабочий стол\TCPMessanger\WpfClient\obj\Debug\WpfClient.csproj.CoreCompileInputs.cache
+C:\Users\klika\OneDrive\Рабочий стол\TCPMessanger\WpfClient\obj\Debug\WpfClient.csproj.CopyComplete
+C:\Users\klika\OneDrive\Рабочий стол\TCPMessanger\WpfClient\obj\Debug\WpfClient.exe
+C:\Users\klika\OneDrive\Рабочий стол\TCPMessanger\WpfClient\obj\Debug\WpfClient.pdb
